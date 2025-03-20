@@ -46,12 +46,12 @@ void main() {
 	scanf("%d", &a);
 	scanf("%d", &b);
 
-	if (a > b) {
+	if (a > b) 
 		printf("a가 %d만큼 큽니다", a - b);
-	}
-	else {
+	else if(b == a) 
+		printf("두 값이 같습니다.");
+	else 
 		printf("b가 %d만큼 큽니다", b - a);
-	}
 
 
 }
