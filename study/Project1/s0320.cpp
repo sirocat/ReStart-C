@@ -43,15 +43,50 @@ void main() {
 	scanf("%d", &d);
 	printf("%d + %d + %d + %d = %d", a, b, c, d, a + b + c + d);*/
 	
-	scanf("%d", &a);
+	/*scanf("%d", &a);
 	scanf("%d", &b);
-
+	q
 	if (a > b) 
 		printf("a가 %d만큼 큽니다", a - b);
 	else if(b == a) 
 		printf("두 값이 같습니다.");
 	else 
-		printf("b가 %d만큼 큽니다", b - a);
+		printf("b가 %d만큼 큽니다", b - a);*/
 
 
+	printf("첫 번째 계산할 값을 입력하세요 ==>");
+	scanf("%d", &a);
+	printf("<1>덧셈 <2>뺄셈 <3>곱셈 <4>나눗셈 <5>나머지 ==>");
+	scanf("%d", &b);
+	printf("두 번째 계산할 값을 입력하세요 ==>");
+	scanf("%d", &c);
+	if (b == 1) {
+		printf("%d + %d = %d", a, c, a + c);
+	}
+	else if (b == 2) {
+		printf("%d - %d = %d", a, c, a - c);
+	}
+	else if (b == 3) {
+		if (c == 0) {
+			printf("계산할 수 없습니다.");
+		}
+		else {
+			printf("%d * %d = %d", a, c, a * c);
+		}
+	}
+	else if (b == 4) {
+		if (c==0) {
+			printf("계산할 수 없습니다.");
+		}
+		else {
+			printf("%d / %d = %.2f", a, c, (float)a / c);
+		}
+	}
+	else if (b == 5) {
+		print("%d % %d = %.2f",a,c,(float)a%c)
+	}
+	else{
+		printf("없는 조건입니다");
+	}
+	                            
 }
