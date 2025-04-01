@@ -1,48 +1,15 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void main() {
-
-	int a, b, c, choice;
-	float area;
-
-	printf("<1> 삼각형 <2>사각형 <3>원 <4>사다리꼴 ");
-	scanf("%d", &choice);
-	if (choice == 1) {
-		printf("밑변의 길이 입력: ");
-		scanf("%d", &a);
-		printf("높이 입력: ");
-		scanf("%d", &b);
-		area = a * b * 0.5;
-		printf("밑변이 %d이고 높이가 %d인 삼각형의 넓이는 : %3.f\n", a, b, area);
-	}
-	if (choice == 2) {
-		printf("가로 길이 입력: ");
-		scanf("%d", &a);
-		printf("세로 길이 입력: ");
-		scanf("%d", &b);
-		area = a * b;
-		printf("가로 길이 %d 세로 길이 %d인 사각형의 넓이는 : %.3f\n",a,b, area);
-	}
-	if (choice == 3) {
-		printf("반지름의 길이 입력: ");
-		scanf("%d", &a);
-		area = a * a * 3.14;
-		printf("반지름의 길이가 %d인 원의 넓이는 : %.3f\n", a, area);
-	}
-	if (choice == 4) {
-		printf("윗변의 넓이 입력: ");
-		scanf("%d", &a);
-		printf("아랫변의 넓이 입력: ");
-		scanf("%d", &b);
-		printf("높이 입력:");
-		scanf("%d", &c);
-		area = (a + b) * c * 0.5;
-		printf("윗변이 %d이고 아랫변이 %d 높이가 %d인 사다리꼴의 넓이는 %.3f\n", a, b, c, area);
-	}
-
-	
-}
+//void main() {
+//
+//	printf("%05d\n",123);
+//	printf("%7.1f\n", 123.45);
+//	printf("%7.3f\n", 123.45);
+//	printf("%s\n", "Basic-C");
+//	printf("%10s\n", "Basic-C");
+//	
+//}
 
 
 
@@ -51,6 +18,47 @@ void main() {
 
 
 //------------------변수선언 예제------------------
+
+
+
+//int a, b, c, choice;
+//float area;
+//
+//printf("<1> 삼각형 <2>사각형 <3>원 <4>사다리꼴 ");
+//scanf("%d", &choice);
+//if (choice == 1) {
+//	printf("밑변의 길이 입력: ");
+//	scanf("%d", &a);
+//	printf("높이 입력: ");
+//	scanf("%d", &b);
+//	area = a * b * 0.5;
+//	printf("밑변이 %d이고 높이가 %d인 삼각형의 넓이는 : %3.f\n", a, b, area);
+//}
+//if (choice == 2) {
+//	printf("가로 길이 입력: ");
+//	scanf("%d", &a);
+//	printf("세로 길이 입력: ");
+//	scanf("%d", &b);
+//	area = a * b;
+//	printf("가로 길이 %d 세로 길이 %d인 사각형의 넓이는 : %.3f\n", a, b, area);
+//}
+//if (choice == 3) {
+//	printf("반지름의 길이 입력: ");
+//	scanf("%d", &a);
+//	area = a * a * 3.14;
+//	printf("반지름의 길이가 %d인 원의 넓이는 : %.3f\n", a, area);
+//}
+//if (choice == 4) {
+//	printf("윗변의 넓이 입력: ");
+//	scanf("%d", &a);
+//	printf("아랫변의 넓이 입력: ");
+//	scanf("%d", &b);
+//	printf("높이 입력:");
+//	scanf("%d", &c);
+//	area = (a + b) * c * 0.5;
+//	printf("윗변이 %d이고 아랫변이 %d 높이가 %d인 사다리꼴의 넓이는 %.3f\n", a, b, c, area);
+//}
+
 
 /*int a;
 	int b;
