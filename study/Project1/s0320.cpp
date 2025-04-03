@@ -1,15 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-//void main() {
-//
-//	printf("%05d\n",123);
-//	printf("%7.1f\n", 123.45);
-//	printf("%7.3f\n", 123.45);
-//	printf("%s\n", "Basic-C");
-//	printf("%10s\n", "Basic-C");
-//	
-//}
+void main() {
+
+	int a = 100;
+	
+}
 
 
 
@@ -264,3 +260,11 @@
 //	if(first < second) {
 //		printf("두 번째 값이 더 큽니다.\n");
 //	}*/
+
+
+
+//	printf("%05d\n",123);
+//	printf("%7.1f\n", 123.45);
+//	printf("%7.3f\n", 123.45);
+//	printf("%s\n", "Basic-C");
+//	printf("%10s\n", "Basic-C");
