@@ -2,33 +2,21 @@
 #include <string.h>
 #include <stdio.h>
 
-void main() {
-	
-	int type,data;
-	
+int main() {
+	char str[10] = "";
+	printf("문자열 입력 : ");
+	scanf("%s", str);
+	printf("입력된 문자열 : %s\n", str);
 
-	printf("입력진수 결정 <1>10진수 <2>16진수 <3>8진수 : ");
-	scanf("%d", &type);
-	printf("선택한 진수 : %d \n", type);
-	if (type == 1) {
-		printf("값 입력 : ");
-		scanf("%d", &data);
+	int len = strlen(str);
+	for (int i = sizeof(str)-1; i >= 0; i--) {
+		printf("%c", str[i]);
 	}
-	if (type == 2) {
-		printf("값 입력 : ");
-		scanf("%x", &data);
-	}
-	if (type == 3) {
-		printf("값 입력 : ");
-		scanf("%o", &data);
-	}
-	printf(" 10진수 : %d \n", data);
-	printf(" 16진수 : %x \n",data);
-	printf(" 8진수 : %o \n", data);
-	
+	printf("\n");
 
-	
+
 }
+
 
 
 //printf("%d\n", 123);
@@ -101,5 +89,28 @@ void main() {
 	strcpy(str1, str2);
 	printf("%s\n", str1);*/
 
+
+
+/*int type,data;
+
+
+	printf("입력진수 결정 <1>10진수 <2>16진수 <3>8진수 : ");
+		scanf("%d", &type);
+		printf("선택한 진수 : %d \n", type);
+		if (type == 1) {
+			printf("값 입력 : ");
+			scanf("%d", &data);
+		}
+		if (type == 2) {
+			printf("값 입력 : ");
+			scanf("%x", &data);
+		}
+		if (type == 3) {
+			printf("값 입력 : ");
+			scanf("%o", &data);
+		}
+		printf(" 10진수 : %d \n", data);
+		printf(" 16진수 : %x \n",data);
+		printf(" 8진수 : %o \n", data);*/
 
 

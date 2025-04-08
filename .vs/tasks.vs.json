@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-s0320",
+      "appliesTo": "study/Project1/s0320.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-s0320",
+      "appliesTo": "study/Project1/s0320.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-s0320",
+      "appliesTo": "study/Project1/s0320.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-s0320",
+      "appliesTo": "study/Project1/s0320.cpp",
+      "type": "launch"
+    }
+  ]
+}
