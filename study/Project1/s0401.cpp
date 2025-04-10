@@ -2,17 +2,37 @@
 #include <string.h>
 #include <stdio.h>
 
-int main() {
-	char str[10] = "";
-	printf("문자열 입력 : ");
-	scanf("%s", str);
-	printf("입력된 문자열 : %s\n", str);
+void main() {
+	
+	
+	/*int a = 100, b = 200,c=0;
+	printf("상수의 and 연산 %d\n", a && b);
+	printf("상수의 or 연산 %d\n", a || b);
+	printf("상수의 not 연산 %d\n", !a );
+	printf("상수(0포함)의 and 연산 %d\n", a && c);*/
 
-	int len = strlen(str);
-	for (int i = sizeof(str)-1; i >= 0; i--) {
-		printf("%c", str[i]);
-	}
-	printf("\n");
+	/*char a = 'A', b, c ;
+	char mask = 0x0F;
+
+	printf(" %X & %X = %X\n", a, mask, a & mask);
+	printf(" %X | %X = %X\n", a, mask, a | mask);
+
+	mask = 'a' - 'A';
+
+	b = a ^ mask;
+	printf("%c ^%  = %c \n", a, mask, b);
+	a = b ^ mask;
+	printf("%c ^ %d = %c\n", b, mask, a);*/
+
+	int a = 10;
+	printf("%d를 왼쪽으로 시프트 1회 %d\n", a, a << 1);
+	printf("%d를 왼쪽으로 시프트 2회 %d\n", a, a << 2);
+	printf("%d를 왼쪽으로 시프트 3회 %d\n", a, a << 3);
+	printf("%d를 왼쪽으로 시프트 1회 %d\n", a, a >> 1);
+	printf("%d를 왼쪽으로 시프트 2회 %d\n", a, a >> 2);
+	printf("%d를 왼쪽으로 시프트 3회 %d\n", a, a >> 3);
+
+
 
 
 }
@@ -114,3 +134,49 @@ int main() {
 		printf(" 8진수 : %o \n", data);*/
 
 
+
+		/*char str[10] = "";
+			printf("문자열 입력 : ");
+			scanf("%s", str);
+			printf("입력된 문자열 : %s\n", str);
+
+			int len = strlen(str);
+			for (int i = sizeof(str)-1; i >= 0; i--) {
+				printf("%c", str[i]);
+			}
+			printf("\n");*/
+
+
+
+			/*int a = 10;
+
+				a += 3;
+				printf("%d\n", a);
+				printf("pirntf에서 a 값이 13인 a+=3 실행결과 %d\n", a += 3);
+				a++;
+				printf("++연산 후 실행 결과 %d\n", a);
+				printf("printf에서 ++연산 후 실행 결과 %d\n", a++);
+				printf("printf에서 ++연산 후 실행 결과 %d\n", a);
+				a = 10;
+				++a;
+				printf("++연산 후 실행 결과 %d\n", a);
+				printf("printf에서 ++연산 후 실행 결과 %d\n", ++a);
+				printf("printf에서 ++연산 후 실행 결과 %d\n", a);*/
+
+
+				//int a = 100, b = 200;
+
+				//printf("%d == %d는 %d이다\n", a, b, a == b); //0
+				//printf("%d != %d는 %d이다\n", a, b, a != b); //1
+				//printf("%d > %d는 %d이다\n", a, b, a > b); //0
+				//printf("%d < %d는 %d이다\n", a, b, a < b); //1
+				//printf("%d >= %d는 %d이다\n", a, b, a >= b); //0
+				//printf("%d <= %d는 %d이다\n", a, b, a <= b); //1
+
+				//printf("%d = %d는 %d이다\n", a, b, a = b); //200
+
+
+/*int a = 99;
+	printf("AND연산 : %d \n", (a >= 100) && (a <= 200));
+	printf("OR연산 : %d\n", (a >= 100) || (a <= 200));
+	printf("NOT연산 : %d\n", !(a == 100));*/
