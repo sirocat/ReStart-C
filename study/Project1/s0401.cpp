@@ -4,35 +4,43 @@
 
 void main() {
 	
+	int a,b;
+	char op;
 	
-	/*int a = 100, b = 200,c=0;
-	printf("상수의 and 연산 %d\n", a && b);
-	printf("상수의 or 연산 %d\n", a || b);
-	printf("상수의 not 연산 %d\n", !a );
-	printf("상수(0포함)의 and 연산 %d\n", a && c);*/
+	printf("원하는 연산자 입력 (+,-,*,%,/) : ");
+	scanf("%c", &op);
 
-	/*char a = 'A', b, c ;
-	char mask = 0x0F;
+	printf("첫 번째 숫자 입력: ");
+	scanf("%d", &a);
 
-	printf(" %X & %X = %X\n", a, mask, a & mask);
-	printf(" %X | %X = %X\n", a, mask, a | mask);
-
-	mask = 'a' - 'A';
-
-	b = a ^ mask;
-	printf("%c ^%  = %c \n", a, mask, b);
-	a = b ^ mask;
-	printf("%c ^ %d = %c\n", b, mask, a);*/
-
-	int a = 10;
-	printf("%d를 왼쪽으로 시프트 1회 %d\n", a, a << 1);
-	printf("%d를 왼쪽으로 시프트 2회 %d\n", a, a << 2);
-	printf("%d를 왼쪽으로 시프트 3회 %d\n", a, a << 3);
-	printf("%d를 왼쪽으로 시프트 1회 %d\n", a, a >> 1);
-	printf("%d를 왼쪽으로 시프트 2회 %d\n", a, a >> 2);
-	printf("%d를 왼쪽으로 시프트 3회 %d\n", a, a >> 3);
+	printf("두 번째 숫자 입력: ");
+	scanf("%d", &b);
 
 
+	switch (op)
+	{
+	case '+': printf("결과: %d\n", a + b); break;
+	case '-': printf("결과: %d\n", a - b); break;
+	case '*': printf("결과: %d\n", a * b); break;
+	case '/':
+		if (b != 0)
+			printf("결과: %.2f\n", (float)a / b);
+		else
+			printf("0으로 나눌 수 없습니다.\n");
+		break;
+	case '%':
+		if (b != 0)
+			printf("결과: %d\n", a % b);
+		else
+			printf("0으로 나눌 수 없습니다.\n");
+		break;
+	default: printf("잘못된 연산자입니다.\n"); break;
+	}
+	
+	
+
+	
+	
 
 
 }
@@ -180,3 +188,75 @@ void main() {
 	printf("AND연산 : %d \n", (a >= 100) && (a <= 200));
 	printf("OR연산 : %d\n", (a >= 100) || (a <= 200));
 	printf("NOT연산 : %d\n", !(a == 100));*/
+
+
+
+	/*int a = 100, b = 200,c=0;
+		printf("상수의 and 연산 %d\n", a && b);
+		printf("상수의 or 연산 %d\n", a || b);
+		printf("상수의 not 연산 %d\n", !a );
+		printf("상수(0포함)의 and 연산 %d\n", a && c);*/
+
+		/*char a = 'A', b, c ;
+		char mask = 0x0F;
+
+		printf(" %X & %X = %X\n", a, mask, a & mask);
+		printf(" %X | %X = %X\n", a, mask, a | mask);
+
+		mask = 'a' - 'A';
+
+		b = a ^ mask;
+		printf("%c ^%  = %c \n", a, mask, b);
+		a = b ^ mask;
+		printf("%c ^ %d = %c\n", b, mask, a);*/
+
+		/*int a = 10;
+		printf("%d를 왼쪽으로 시프트 1회 %d\n", a, a << 1);
+		printf("%d를 왼쪽으로 시프트 2회 %d\n", a, a << 2);
+		printf("%d를 왼쪽으로 시프트 3회 %d\n", a, a << 3);
+		printf("%d를 왼쪽으로 시프트 1회 %d\n", a, a >> 1);
+		printf("%d를 왼쪽으로 시프트 2회 %d\n", a, a >> 2);
+		printf("%d를 왼쪽으로 시프트 3회 %d\n", a, a >> 3);*/
+
+
+
+		//int year;
+
+		//printf("년도를 입력하세요 :");
+		//scanf("%d", &year);
+
+		//if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0))
+		//	printf("%d년은 윤년입니다. \n", year);
+		//else
+		//	printf("%d년은 윤년이 아닙니다. \n", year);
+
+
+//int a = 200;
+//if (a < 100) {
+//	printf("100보다 작군요..\n");
+//	printf("거짓이므로 이 문장은 안 보여요\n");
+//}
+//
+//
+//printf("프로그램 끝");
+
+
+
+/*int jumsu = 0;
+	scanf("%d", &jumsu);
+
+	if (jumsu >=90) {
+		printf("A입니다\n");
+	}
+	else if (jumsu >= 80) {
+		printf("B입니다\n");
+	}
+	else if (jumsu >= 70) {
+		printf("C입니다\n");
+	}
+	else if (jumsu >= 60) {
+		printf("D입니다\n");
+	}
+	else {
+		printf("F입니다\n");
+	}*/

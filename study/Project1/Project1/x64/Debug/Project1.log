@@ -1,3 +1,4 @@
 ﻿  s0401.cpp
 C:\Users\user\Documents\GitHub\ReStart-C\study\Project1\s0401.cpp(5,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Documents\GitHub\ReStart-C\study\Project1\s0401.cpp(10,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ','이(가) 있습니다.
   Project1.vcxproj -> C:\Users\user\Documents\GitHub\ReStart-C\study\Project1\x64\Debug\Project1.exe
