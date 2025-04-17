@@ -4,38 +4,7 @@
 
 void main() {
 	
-	int a,b;
-	char op;
 	
-	printf("원하는 연산자 입력 (+,-,*,%,/) : ");
-	scanf("%c", &op);
-
-	printf("첫 번째 숫자 입력: ");
-	scanf("%d", &a);
-
-	printf("두 번째 숫자 입력: ");
-	scanf("%d", &b);
-
-
-	switch (op)
-	{
-	case '+': printf("결과: %d\n", a + b); break;
-	case '-': printf("결과: %d\n", a - b); break;
-	case '*': printf("결과: %d\n", a * b); break;
-	case '/':
-		if (b != 0)
-			printf("결과: %.2f\n", (float)a / b);
-		else
-			printf("0으로 나눌 수 없습니다.\n");
-		break;
-	case '%':
-		if (b != 0)
-			printf("결과: %d\n", a % b);
-		else
-			printf("0으로 나눌 수 없습니다.\n");
-		break;
-	default: printf("잘못된 연산자입니다.\n"); break;
-	}
 	
 	
 
@@ -260,3 +229,36 @@ void main() {
 	else {
 		printf("F입니다\n");
 	}*/
+
+	/*int a,b;
+		char op;
+
+		printf("원하는 연산자 입력 (+,-,*,%,/) : ");
+		scanf("%c", &op);
+
+		printf("첫 번째 숫자 입력: ");
+		scanf("%d", &a);
+
+		printf("두 번째 숫자 입력: ");
+		scanf("%d", &b);
+
+
+		switch (op)
+		{
+		case '+': printf("결과: %d\n", a + b); break;
+		case '-': printf("결과: %d\n", a - b); break;
+		case '*': printf("결과: %d\n", a * b); break;
+		case '/':
+			if (b != 0)
+				printf("결과: %.2f\n", (float)a / b);
+			else
+				printf("0으로 나눌 수 없습니다.\n");
+			break;
+		case '%':
+			if (b != 0)
+				printf("결과: %d\n", a % b);
+			else
+				printf("0으로 나눌 수 없습니다.\n");
+			break;
+		default: printf("잘못된 연산자입니다.\n"); break;
+		}*/
