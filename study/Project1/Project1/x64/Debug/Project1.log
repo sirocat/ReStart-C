@@ -1,3 +1,4 @@
 ﻿  s0417.cpp
 C:\Users\user\Documents\GitHub\ReStart-C\study\Project1\s0417.cpp(5,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Project1.vcxproj -> C:\Users\user\Documents\GitHub\ReStart-C\study\Project1\x64\Debug\Project1.exe
+C:\Users\user\Documents\GitHub\ReStart-C\study\Project1\s0417.cpp(77,1): error C2059: 구문 오류: '}'
+C:\Users\user\Documents\GitHub\ReStart-C\study\Project1\s0417.cpp(77,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.

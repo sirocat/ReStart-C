@@ -4,10 +4,10 @@
 
 void main() {
 
-	/*int i = 0;*/
-	/*for (i = 1;i <= 10;i++) {
-		printf("%d \n", i);
-	}*/
+	int i = 0;
+		for (i = 1;i <= 10;i++) {
+			printf("%d \n", i);
+		}
 
 	/*int i;
 	for (i = 10;i >= 1;i--) {
@@ -30,14 +30,14 @@ void main() {
 	//}
 	//printf("1부터 5까지의 합 : %d", sum);
 
-	
+
 	/*for (int i = 0; i <= 8; i += 2) {
-		
+
 		for (int j = 0; j < (9 - i) / 2; j++) {
 			printf(" ");
 		}
 
-		
+
 		for (int k = 0; k <= i; k++) {
 			printf("*");
 		}
@@ -45,17 +45,7 @@ void main() {
 		printf("\n");
 	}*/
 
-	int i, line, star;
-
-	printf("출력하고싶은 줄수 입력 : ");
-	scanf("%d", &line);
-	for (i = 1; i <= line;i++) {
-		for (star = 1; star <= i;star++) {
-			printf("*");
-		}
-		printf("\n");
-	}
-
+}
 
 
 
