@@ -1,13 +1,85 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <string.h>
 #include <stdio.h>
 
 void main() {
 
-	for (int i = 0;i <= 6;i++) {
-		printf("¾È³ç\n");
-	}
+	/*int i = 0;*/
+	/*for (i = 1;i <= 10;i++) {
+		printf("%d \n", i);
+	}*/
+
+	/*int i;
+	for (i = 10;i >= 1;i--) {
+		printf("%d \n", i);
+	}*/
+
+	/*int i;
+	for (i = 2;i <= 20;i += 2) {
+		printf("%d \n", i);
+	}*/
+
+	/*int i;
+	for (i = 1;i <= 9;i++) {
+		printf(" 7 * %d = %d\n",i,(7 * i));
+	}*/
+
+	//int i,sum=0;
+	//for (i = 1;i <= 5;i++) {
+	//	sum += i;
+	//}
+	//printf("1ë¶€í„° 5ê¹Œì§€ì˜ í•© : %d", sum);
+
 	
+	/*for (int i = 0; i <= 8; i += 2) {
+		
+		for (int j = 0; j < (9 - i) / 2; j++) {
+			printf(" ");
+		}
+
+		
+		for (int k = 0; k <= i; k++) {
+			printf("*");
+		}
+
+		printf("\n");
+	}*/
+
+	int i, line, star;
+
+	printf("ì¶œë ¥í•˜ê³ ì‹¶ì€ ì¤„ìˆ˜ ìž…ë ¥ : ");
+	scanf("%d", &line);
+	for (i = 1; i <= line;i++) {
+		for (star = 1; star <= i;star++) {
+			printf("*");
+		}
+		printf("\n");
+	}
+
+
+
+
+
+	/*for (int i = 3;i <= 100;i += 3) {
+		printf("%d\n",i);
+	}*/
+
+	//for (int i = 65;i <= 90;i++) {
+	//	printf("%c ", i);
+	//}
+	//for (char c = 'A'; c <= 'Z'; c++) {
+	//	printf("%c ", c);
+	//}
+
+	/*for (int i = 2;i <= 9;i++) {
+		printf("%dë‹¨\n", i);
+		for (int j = 1;j <= 9;j++) {
+			printf("%d * %d = %d\n",i,j,i*j);
+		}
+		printf("\n");
+	}*/
+
+
 
 
 
@@ -17,51 +89,51 @@ void main() {
 
 	/*int year;
 	int a;
-	printf("Ãâ»ý¿¬µµ¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+	printf("ì¶œìƒì—°ë„ë¥¼ ìž…ë ¥í•˜ì„¸ìš” : ");
 	scanf("%d", &year);
 	a = year % 12;
 
 	if (a == 0) {
-		printf("¿ø¼þÀÌ ¶ì ÀÔ´Ï´Ù\n");
+		printf("ì›ìˆ­ì´ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 1) {
-		printf("´ß ¶ì ÀÔ´Ï´Ù\n");
+		printf("ë‹­ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 2) {
-		printf("°³ ¶ì ÀÔ´Ï´Ù\n");
+		printf("ê°œ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 3) {
-		printf("µÅÁö ¶ì ÀÔ´Ï´Ù\n");
+		printf("ë¼ì§€ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 4) {
-		printf("Áã ¶ì ÀÔ´Ï´Ù\n");
+		printf("ì¥ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 5) {
-		printf("¼Ò ¶ì ÀÔ´Ï´Ù\n");
+		printf("ì†Œ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 6) {
-		printf("È£¶ûÀÌ ¶ì ÀÔ´Ï´Ù\n");
+		printf("í˜¸ëž‘ì´ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 7) {
-		printf("Åä³¢ ¶ì ÀÔ´Ï´Ù\n");
+		printf("í† ë¼ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 8) {
-		printf("¿ë ¶ì ÀÔ´Ï´Ù\n");
+		printf("ìš© ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 9) {
-		printf("¹ì ¶ì ÀÔ´Ï´Ù\n");
+		printf("ë±€ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 10) {
-		printf("¸» ¶ì ÀÔ´Ï´Ù\n");
+		printf("ë§ ë  ìž…ë‹ˆë‹¤\n");
 	}
 	else if (a == 11) {
-		printf("¾ç ¶ì ÀÔ´Ï´Ù\n");
+		printf("ì–‘ ë  ìž…ë‹ˆë‹¤\n");
 	}*/
 
 
 	/*int a, b;
 		char op;
-		printf("¼ö½ÄÀ» ÇÑ ÁÙ·Î ¶ç¾î¾²±â·Î ÀÔ·ÂÇÏ¼¼¿ä : ");
+		printf("ìˆ˜ì‹ì„ í•œ ì¤„ë¡œ ë„ì–´ì“°ê¸°ë¡œ ìž…ë ¥í•˜ì„¸ìš” : ");
 		scanf("%d %c %d", &a, &op, &b);
 
 		switch (op)
@@ -74,14 +146,15 @@ void main() {
 					printf("%d / %d = %d", a, b, a / b); break;
 				}
 				else {
-					printf("°è»ê ºÒ°¡´É"); break;
+					printf("ê³„ì‚° ë¶ˆê°€ëŠ¥"); break;
 				}
 			case '%':
 				if (b != 0) {
 					printf("%d %% %d = %d", a, b, a % b); break;
 				}
 				else {
-					printf("°è»ê ºÒ°¡´É"); break;
+					printf("ê³„ì‚° ë¶ˆê°€ëŠ¥"); break;
 				}
 			default: break;
 		}*/
+
