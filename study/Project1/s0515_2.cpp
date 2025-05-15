@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 void main() {
-	/*int i, line, star;
+	int i, line, star;
 
 	printf("출력하고싶은 줄수 입력 : ");
 	scanf("%d", &line);
@@ -17,30 +17,30 @@ void main() {
 		}
 		printf("\n");
 		i++;
-	}*/
+	}
 
-	int i, j;
-	i = 1;
-	while (i <= 9) {
-		j = 2;
-		while(j <= 5) {
-			printf("%d * %d = %d\t", j, i, j * i);
-			j++;
-		}
-		printf("\n");
-		i++;
-	}
-	i = 1;
-	printf("\n");
-	while (i <= 9) {
-		j = 6;
-		while(j <= 9) {
-			printf("%d * %d = %d\t", j, i, j * i);
-			j++;
-		}
-		printf("\n");
-		i++;
-	}
+	//int i, j;
+	//i = 1;
+	//while (i <= 9) {
+	//	j = 2;
+	//	while(j <= 5) {
+	//		printf("%d * %d = %d\t", j, i, j * i);
+	//		j++;
+	//	}
+	//	printf("\n");
+	//	i++;
+	//}
+	//i = 1;
+	//printf("\n");
+	//while (i <= 9) {
+	//	j = 6;
+	//	while(j <= 9) {
+	//		printf("%d * %d = %d\t", j, i, j * i);
+	//		j++;
+	//	}
+	//	printf("\n");
+	//	i++;
+	//}
 
 
 	/*for (int j = 1; j <= 9; j++) {
