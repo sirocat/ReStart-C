@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|c:\\users\\user\\documents\\github\\restart-c\\study\\dbproject\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|c:\\users\\user\\documents\\github\\restart-c\\study\\dbproject\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|solutionrelative:formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|c:\\users\\user\\documents\\github\\restart-c\\study\\dbproject\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|c:\\users\\user\\documents\\github\\restart-c\\study\\dbproject\\formsearch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|solutionrelative:formsearch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|c:\\users\\user\\documents\\github\\restart-c\\study\\dbproject\\formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|solutionrelative:formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|c:\\users\\user\\documents\\github\\restart-c\\study\\dbproject\\formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|solutionrelative:formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|c:\\users\\user\\documents\\github\\restart-c\\study\\dbproject\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|solutionrelative:dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|c:\\users\\user\\documents\\github\\restart-c\\study\\dbproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091F40DF-E573-455A-A897-254F1BA67DD5}|DBProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\DBConfig.cs",
+              "RelativeDocumentMoniker": "DBConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\DBConfig.cs",
+              "RelativeToolTip": "DBConfig.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:38:42.938Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSearch.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormSearch.Designer.cs",
+              "RelativeDocumentMoniker": "FormSearch.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormSearch.Designer.cs",
+              "RelativeToolTip": "FormSearch.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:02:38.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSearch.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormSearch.cs",
+              "RelativeDocumentMoniker": "FormSearch.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormSearch.cs",
+              "RelativeToolTip": "FormSearch.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:02:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSearch.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormSearch.cs",
+              "RelativeDocumentMoniker": "FormSearch.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormSearch.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FormSearch.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:02:29.71Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:41:13.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormMain.Designer.cs",
+              "RelativeToolTip": "FormMain.Designer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswIMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:40:29.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\FormMain.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FormMain.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:40:04.907Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\DBProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:38:54.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
