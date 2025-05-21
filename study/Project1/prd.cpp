@@ -60,7 +60,7 @@ void drawCar() {
 }
 
 void printCar() {
-    for (int i = 0; i < 150; i++) {  // 150줄 이상 출력해보기
+    for (int i = 0; i < 150; i++) {  //공백으로 위에 자동차 위치 내려오게하기
         printf("\n");
     }
 
