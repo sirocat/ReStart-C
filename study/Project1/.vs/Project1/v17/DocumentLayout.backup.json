@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s051.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|solutionrelative:s051.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0512.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|solutionrelative:s0512.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\prd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|solutionrelative:prd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0417.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|solutionrelative:s0417.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0515_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|solutionrelative:s0515_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0515.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|solutionrelative:s0515.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0401.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|solutionrelative:s0401.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0605.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80F10D1B-0C40-48C5-BC38-C15D5BA4B0CF}|Project1.vcxproj|solutionrelative:s0605.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,89 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "s051.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s051.cpp",
-              "RelativeDocumentMoniker": "s051.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s051.cpp*",
-              "RelativeToolTip": "s051.cpp*",
-              "ViewState": "AgIAAMgCAAAAAAAAAAAswOUCAAAAAAAAAAAAAA==",
+              "Title": "s0605.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0605.cpp",
+              "RelativeDocumentMoniker": "s0605.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0605.cpp*",
+              "RelativeToolTip": "s0605.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-28T04:40:09.663Z",
+              "WhenOpened": "2025-06-05T01:23:54.318Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "s0512.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0512.cpp",
-              "RelativeDocumentMoniker": "s0512.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0512.cpp",
-              "RelativeToolTip": "s0512.cpp",
-              "ViewState": "AgIAAJgCAAAAAAAAAAAswLUCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-27T05:40:08.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "prd.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\prd.cpp",
-              "RelativeDocumentMoniker": "prd.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\prd.cpp",
-              "RelativeToolTip": "prd.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-21T01:20:18.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "s0515_2.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0515_2.cpp",
-              "RelativeDocumentMoniker": "s0515_2.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0515_2.cpp",
-              "RelativeToolTip": "s0515_2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T01:18:04.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "s0515.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0515.cpp",
-              "RelativeDocumentMoniker": "s0515.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0515.cpp",
-              "RelativeToolTip": "s0515.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T01:14:33.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "s0417.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0417.cpp",
-              "RelativeDocumentMoniker": "s0417.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0417.cpp",
-              "RelativeToolTip": "s0417.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T01:00:57.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "s0401.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0401.cpp",
-              "RelativeDocumentMoniker": "s0401.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0401.cpp",
-              "RelativeToolTip": "s0401.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T08:34:48.354Z"
             }
           ]
         }

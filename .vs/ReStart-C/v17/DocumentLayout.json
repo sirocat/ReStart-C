@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\prd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:study\\Project1\\prd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0512.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:study\\Project1\\s0512.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0401.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:study\\Project1\\s0401.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "prd.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\prd.cpp",
+              "RelativeDocumentMoniker": "study\\Project1\\prd.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\prd.cpp",
+              "RelativeToolTip": "study\\Project1\\prd.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T01:23:00.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "s0512.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0512.cpp",
+              "RelativeDocumentMoniker": "study\\Project1\\s0512.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0512.cpp",
+              "RelativeToolTip": "study\\Project1\\s0512.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T01:22:57.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "s0401.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0401.cpp",
               "RelativeDocumentMoniker": "study\\Project1\\s0401.cpp",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ReStart-C\\study\\Project1\\s0401.cpp",
               "RelativeToolTip": "study\\Project1\\s0401.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-03T01:42:17.12Z",
               "EditorCaption": ""

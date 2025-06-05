@@ -20,6 +20,11 @@
       "taskLabel": "task-s0320",
       "appliesTo": "study/Project1/s0320.cpp",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-prd",
+      "appliesTo": "study/Project1/prd.cpp",
+      "type": "launch"
     }
   ]
 }
